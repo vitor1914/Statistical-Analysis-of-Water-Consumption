@@ -1,0 +1,18 @@
+RELATORIO: ANALISE ESTATISTICA DE CONSUMO DE AGUA
+=================================================
+
+Os dados utilizados sao simulados para fins educacionais.
+Periodo: 2026-01-01 a 2026-03-31
+Dias analisados: 90
+Consumo total: 40254.1 litros
+Media diaria: 447.27 litros
+Mediana: 446.35 litros
+Desvio-padrao: 73.45 litros
+Minimo: 245 litros
+Maximo: 720 litros
+Dias atipicos: 4
+
+METODOLOGIA
+Os valores atipicos foram identificados pelo metodo IQR.
+Valores atipicos precisam ser investigados e nao indicam
+necessariamente erros de medicao.

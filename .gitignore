@@ -1,0 +1,30 @@
+
+# R e RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Arquivos temporarios
+*.tmp
+*.temp
+*.log
+~$*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Configuracoes de editores
+.vscode/
+.idea/
+
+# Relatorios e resultados gerados
+# Os arquivos de resultados podem ser versionados se forem
+# importantes para demonstrar o projeto.
+# outputs/
+
+# Arquivos de dados privados ou muito grandes
+# data/dados_reais.csv
